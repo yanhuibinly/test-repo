@@ -1,2 +1,2 @@
 # test-repo
-add dev
+add dev and master
